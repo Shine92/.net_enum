@@ -1,0 +1,9 @@
+D:\LABC#\test0830_enum\test0830_enum\bin\Debug\test0830_enum.exe.config
+D:\LABC#\test0830_enum\test0830_enum\bin\Debug\test0830_enum.exe
+D:\LABC#\test0830_enum\test0830_enum\bin\Debug\test0830_enum.pdb
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.csprojResolveAssemblyReference.cache
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.Form1.resources
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.Properties.Resources.resources
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.csproj.GenerateResource.Cache
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.exe
+D:\LABC#\test0830_enum\test0830_enum\obj\Debug\test0830_enum.pdb
